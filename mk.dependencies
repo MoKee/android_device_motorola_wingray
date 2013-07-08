@@ -1,0 +1,12 @@
+[
+     {
+        "repository": "MoKee/android_vendor_motorola_wingray",
+        "target_path": "vendor/motorola/wingray",
+        "branch": "jb-mr1_mkt"
+    },
+    {
+        "repository": "MoKee/android_kernel_motorola_stingray",
+        "target_path": "kernel/motorola/stingray",
+        "branch": "jb-mr1_mkt"
+    }
+]
